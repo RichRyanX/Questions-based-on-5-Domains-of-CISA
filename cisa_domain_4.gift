@@ -1,0 +1,801 @@
+// CISA Domain 4: Information Systems Operations and Business Resilience
+
+::$Domain 4 Q001::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding IT components and asset management?
+{
+=The option that best supports sound control over IT components and asset management
+~An action that is less appropriate for IT components and asset management
+~An approach that increases risk in IT components and asset management
+~A choice that ignores audit objectives for IT components and asset management
+}
+
+::$Domain 4 Q002::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding job scheduling and automation?
+{
+=The option that best supports sound control over job scheduling and automation
+~An action that is less appropriate for job scheduling and automation
+~An approach that increases risk in job scheduling and automation
+~A choice that ignores audit objectives for job scheduling and automation
+}
+
+::$Domain 4 Q003::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding system interfaces?
+{
+=The option that best supports sound control over system interfaces
+~An action that is less appropriate for system interfaces
+~A choice that ignores audit objectives for system interfaces
+~An approach that increases risk in system interfaces
+}
+
+::$Domain 4 Q004::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding end-user computing and shadow IT?
+{
+=The option that best supports sound control over end-user computing and shadow IT
+~An action that is less appropriate for end-user computing and shadow IT
+~An approach that increases risk in end-user computing and shadow IT
+~A choice that ignores audit objectives for end-user computing and shadow IT
+}
+
+::$Domain 4 Q005::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding availability and capacity management?
+{
+=The option that best supports sound control over availability and capacity management
+~An action that is less appropriate for availability and capacity management
+~An approach that increases risk in availability and capacity management
+~A choice that ignores audit objectives for availability and capacity management
+}
+
+::$Domain 4 Q006::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding problem and incident management?
+{
+=The option that best supports sound control over problem and incident management
+~An action that is less appropriate for problem and incident management
+~An approach that increases risk in problem and incident management
+~A choice that ignores audit objectives for problem and incident management
+}
+
+::$Domain 4 Q007::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding change, configuration, and patch management?
+{
+=The option that best supports sound control over change, configuration, and patch management
+~An action that is less appropriate for change, configuration, and patch management
+~A choice that ignores audit objectives for change, configuration, and patch management
+~An approach that increases risk in change, configuration, and patch management
+}
+
+::$Domain 4 Q008::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding operational log management?
+{
+=The option that best supports sound control over operational log management
+~An action that is less appropriate for operational log management
+~An approach that increases risk in operational log management
+~A choice that ignores audit objectives for operational log management
+}
+
+::$Domain 4 Q009::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding service level management?
+{
+=The option that best supports sound control over service level management
+~An action that is less appropriate for service level management
+~An approach that increases risk in service level management
+~A choice that ignores audit objectives for service level management
+}
+
+::$Domain 4 Q010::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding database management?
+{
+=The option that best supports sound control over database management
+~An action that is less appropriate for database management
+~An approach that increases risk in database management
+~A choice that ignores audit objectives for database management
+}
+
+::$Domain 4 Q011::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding business impact analysis?
+{
+=The option that best supports sound control over business impact analysis
+~An action that is less appropriate for business impact analysis
+~A choice that ignores audit objectives for business impact analysis
+~An approach that increases risk in business impact analysis
+}
+
+::$Domain 4 Q012::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding backup, continuity, and disaster recovery?
+{
+=The option that best supports sound control over backup, continuity, and disaster recovery
+~An action that is less appropriate for backup, continuity, and disaster recovery
+~An approach that increases risk in backup, continuity, and disaster recovery
+~A choice that ignores audit objectives for backup, continuity, and disaster recovery
+}
+
+::$Domain 4 Q013::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding IT components and asset management?
+{
+=The option that best supports sound control over IT components and asset management
+~An action that is less appropriate for IT components and asset management
+~An approach that increases risk in IT components and asset management
+~A choice that ignores audit objectives for IT components and asset management
+}
+
+::$Domain 4 Q014::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding job scheduling and automation?
+{
+=The option that best supports sound control over job scheduling and automation
+~An action that is less appropriate for job scheduling and automation
+~An approach that increases risk in job scheduling and automation
+~A choice that ignores audit objectives for job scheduling and automation
+}
+
+::$Domain 4 Q015::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding system interfaces?
+{
+=The option that best supports sound control over system interfaces
+~An action that is less appropriate for system interfaces
+~A choice that ignores audit objectives for system interfaces
+~An approach that increases risk in system interfaces
+}
+
+::$Domain 4 Q016::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding end-user computing and shadow IT?
+{
+=The option that best supports sound control over end-user computing and shadow IT
+~An action that is less appropriate for end-user computing and shadow IT
+~An approach that increases risk in end-user computing and shadow IT
+~A choice that ignores audit objectives for end-user computing and shadow IT
+}
+
+::$Domain 4 Q017::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding availability and capacity management?
+{
+=The option that best supports sound control over availability and capacity management
+~An action that is less appropriate for availability and capacity management
+~An approach that increases risk in availability and capacity management
+~A choice that ignores audit objectives for availability and capacity management
+}
+
+::$Domain 4 Q018::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding problem and incident management?
+{
+=The option that best supports sound control over problem and incident management
+~An action that is less appropriate for problem and incident management
+~An approach that increases risk in problem and incident management
+~A choice that ignores audit objectives for problem and incident management
+}
+
+::$Domain 4 Q019::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding change, configuration, and patch management?
+{
+=The option that best supports sound control over change, configuration, and patch management
+~An action that is less appropriate for change, configuration, and patch management
+~A choice that ignores audit objectives for change, configuration, and patch management
+~An approach that increases risk in change, configuration, and patch management
+}
+
+::$Domain 4 Q020::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding operational log management?
+{
+=The option that best supports sound control over operational log management
+~An action that is less appropriate for operational log management
+~An approach that increases risk in operational log management
+~A choice that ignores audit objectives for operational log management
+}
+
+::$Domain 4 Q021::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding service level management?
+{
+=The option that best supports sound control over service level management
+~An action that is less appropriate for service level management
+~An approach that increases risk in service level management
+~A choice that ignores audit objectives for service level management
+}
+
+::$Domain 4 Q022::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding database management?
+{
+=The option that best supports sound control over database management
+~An action that is less appropriate for database management
+~An approach that increases risk in database management
+~A choice that ignores audit objectives for database management
+}
+
+::$Domain 4 Q023::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding business impact analysis?
+{
+=The option that best supports sound control over business impact analysis
+~An action that is less appropriate for business impact analysis
+~A choice that ignores audit objectives for business impact analysis
+~An approach that increases risk in business impact analysis
+}
+
+::$Domain 4 Q024::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding backup, continuity, and disaster recovery?
+{
+=The option that best supports sound control over backup, continuity, and disaster recovery
+~An action that is less appropriate for backup, continuity, and disaster recovery
+~An approach that increases risk in backup, continuity, and disaster recovery
+~A choice that ignores audit objectives for backup, continuity, and disaster recovery
+}
+
+::$Domain 4 Q025::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding IT components and asset management?
+{
+=The option that best supports sound control over IT components and asset management
+~An action that is less appropriate for IT components and asset management
+~An approach that increases risk in IT components and asset management
+~A choice that ignores audit objectives for IT components and asset management
+}
+
+::$Domain 4 Q026::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding job scheduling and automation?
+{
+=The option that best supports sound control over job scheduling and automation
+~An action that is less appropriate for job scheduling and automation
+~An approach that increases risk in job scheduling and automation
+~A choice that ignores audit objectives for job scheduling and automation
+}
+
+::$Domain 4 Q027::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding system interfaces?
+{
+=The option that best supports sound control over system interfaces
+~An action that is less appropriate for system interfaces
+~A choice that ignores audit objectives for system interfaces
+~An approach that increases risk in system interfaces
+}
+
+::$Domain 4 Q028::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding end-user computing and shadow IT?
+{
+=The option that best supports sound control over end-user computing and shadow IT
+~An action that is less appropriate for end-user computing and shadow IT
+~An approach that increases risk in end-user computing and shadow IT
+~A choice that ignores audit objectives for end-user computing and shadow IT
+}
+
+::$Domain 4 Q029::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding availability and capacity management?
+{
+=The option that best supports sound control over availability and capacity management
+~An action that is less appropriate for availability and capacity management
+~An approach that increases risk in availability and capacity management
+~A choice that ignores audit objectives for availability and capacity management
+}
+
+::$Domain 4 Q030::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding problem and incident management?
+{
+=The option that best supports sound control over problem and incident management
+~An action that is less appropriate for problem and incident management
+~An approach that increases risk in problem and incident management
+~A choice that ignores audit objectives for problem and incident management
+}
+
+::$Domain 4 Q031::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding change, configuration, and patch management?
+{
+=The option that best supports sound control over change, configuration, and patch management
+~An action that is less appropriate for change, configuration, and patch management
+~A choice that ignores audit objectives for change, configuration, and patch management
+~An approach that increases risk in change, configuration, and patch management
+}
+
+::$Domain 4 Q032::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding operational log management?
+{
+=The option that best supports sound control over operational log management
+~An action that is less appropriate for operational log management
+~An approach that increases risk in operational log management
+~A choice that ignores audit objectives for operational log management
+}
+
+::$Domain 4 Q033::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding service level management?
+{
+=The option that best supports sound control over service level management
+~An action that is less appropriate for service level management
+~An approach that increases risk in service level management
+~A choice that ignores audit objectives for service level management
+}
+
+::$Domain 4 Q034::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding database management?
+{
+=The option that best supports sound control over database management
+~An action that is less appropriate for database management
+~An approach that increases risk in database management
+~A choice that ignores audit objectives for database management
+}
+
+::$Domain 4 Q035::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding business impact analysis?
+{
+=The option that best supports sound control over business impact analysis
+~An action that is less appropriate for business impact analysis
+~A choice that ignores audit objectives for business impact analysis
+~An approach that increases risk in business impact analysis
+}
+
+::$Domain 4 Q036::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding backup, continuity, and disaster recovery?
+{
+=The option that best supports sound control over backup, continuity, and disaster recovery
+~An action that is less appropriate for backup, continuity, and disaster recovery
+~An approach that increases risk in backup, continuity, and disaster recovery
+~A choice that ignores audit objectives for backup, continuity, and disaster recovery
+}
+
+::$Domain 4 Q037::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding IT components and asset management?
+{
+=The option that best supports sound control over IT components and asset management
+~An action that is less appropriate for IT components and asset management
+~An approach that increases risk in IT components and asset management
+~A choice that ignores audit objectives for IT components and asset management
+}
+
+::$Domain 4 Q038::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding job scheduling and automation?
+{
+=The option that best supports sound control over job scheduling and automation
+~An action that is less appropriate for job scheduling and automation
+~An approach that increases risk in job scheduling and automation
+~A choice that ignores audit objectives for job scheduling and automation
+}
+
+::$Domain 4 Q039::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding system interfaces?
+{
+=The option that best supports sound control over system interfaces
+~An action that is less appropriate for system interfaces
+~A choice that ignores audit objectives for system interfaces
+~An approach that increases risk in system interfaces
+}
+
+::$Domain 4 Q040::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding end-user computing and shadow IT?
+{
+=The option that best supports sound control over end-user computing and shadow IT
+~An action that is less appropriate for end-user computing and shadow IT
+~An approach that increases risk in end-user computing and shadow IT
+~A choice that ignores audit objectives for end-user computing and shadow IT
+}
+
+::$Domain 4 Q041::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding availability and capacity management?
+{
+=The option that best supports sound control over availability and capacity management
+~An action that is less appropriate for availability and capacity management
+~An approach that increases risk in availability and capacity management
+~A choice that ignores audit objectives for availability and capacity management
+}
+
+::$Domain 4 Q042::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding problem and incident management?
+{
+=The option that best supports sound control over problem and incident management
+~An action that is less appropriate for problem and incident management
+~An approach that increases risk in problem and incident management
+~A choice that ignores audit objectives for problem and incident management
+}
+
+::$Domain 4 Q043::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding change, configuration, and patch management?
+{
+=The option that best supports sound control over change, configuration, and patch management
+~An action that is less appropriate for change, configuration, and patch management
+~A choice that ignores audit objectives for change, configuration, and patch management
+~An approach that increases risk in change, configuration, and patch management
+}
+
+::$Domain 4 Q044::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding operational log management?
+{
+=The option that best supports sound control over operational log management
+~An action that is less appropriate for operational log management
+~An approach that increases risk in operational log management
+~A choice that ignores audit objectives for operational log management
+}
+
+::$Domain 4 Q045::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding service level management?
+{
+=The option that best supports sound control over service level management
+~An action that is less appropriate for service level management
+~An approach that increases risk in service level management
+~A choice that ignores audit objectives for service level management
+}
+
+::$Domain 4 Q046::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding database management?
+{
+=The option that best supports sound control over database management
+~An action that is less appropriate for database management
+~An approach that increases risk in database management
+~A choice that ignores audit objectives for database management
+}
+
+::$Domain 4 Q047::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding business impact analysis?
+{
+=The option that best supports sound control over business impact analysis
+~An action that is less appropriate for business impact analysis
+~A choice that ignores audit objectives for business impact analysis
+~An approach that increases risk in business impact analysis
+}
+
+::$Domain 4 Q048::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding backup, continuity, and disaster recovery?
+{
+=The option that best supports sound control over backup, continuity, and disaster recovery
+~An action that is less appropriate for backup, continuity, and disaster recovery
+~An approach that increases risk in backup, continuity, and disaster recovery
+~A choice that ignores audit objectives for backup, continuity, and disaster recovery
+}
+
+::$Domain 4 Q049::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding IT components and asset management?
+{
+=The option that best supports sound control over IT components and asset management
+~An action that is less appropriate for IT components and asset management
+~An approach that increases risk in IT components and asset management
+~A choice that ignores audit objectives for IT components and asset management
+}
+
+::$Domain 4 Q050::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding job scheduling and automation?
+{
+=The option that best supports sound control over job scheduling and automation
+~An action that is less appropriate for job scheduling and automation
+~An approach that increases risk in job scheduling and automation
+~A choice that ignores audit objectives for job scheduling and automation
+}
+
+::$Domain 4 Q051::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding system interfaces?
+{
+=The option that best supports sound control over system interfaces
+~An action that is less appropriate for system interfaces
+~A choice that ignores audit objectives for system interfaces
+~An approach that increases risk in system interfaces
+}
+
+::$Domain 4 Q052::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding end-user computing and shadow IT?
+{
+=The option that best supports sound control over end-user computing and shadow IT
+~An action that is less appropriate for end-user computing and shadow IT
+~An approach that increases risk in end-user computing and shadow IT
+~A choice that ignores audit objectives for end-user computing and shadow IT
+}
+
+::$Domain 4 Q053::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding availability and capacity management?
+{
+=The option that best supports sound control over availability and capacity management
+~An action that is less appropriate for availability and capacity management
+~An approach that increases risk in availability and capacity management
+~A choice that ignores audit objectives for availability and capacity management
+}
+
+::$Domain 4 Q054::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding problem and incident management?
+{
+=The option that best supports sound control over problem and incident management
+~An action that is less appropriate for problem and incident management
+~An approach that increases risk in problem and incident management
+~A choice that ignores audit objectives for problem and incident management
+}
+
+::$Domain 4 Q055::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding change, configuration, and patch management?
+{
+=The option that best supports sound control over change, configuration, and patch management
+~An action that is less appropriate for change, configuration, and patch management
+~A choice that ignores audit objectives for change, configuration, and patch management
+~An approach that increases risk in change, configuration, and patch management
+}
+
+::$Domain 4 Q056::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding operational log management?
+{
+=The option that best supports sound control over operational log management
+~An action that is less appropriate for operational log management
+~An approach that increases risk in operational log management
+~A choice that ignores audit objectives for operational log management
+}
+
+::$Domain 4 Q057::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding service level management?
+{
+=The option that best supports sound control over service level management
+~An action that is less appropriate for service level management
+~An approach that increases risk in service level management
+~A choice that ignores audit objectives for service level management
+}
+
+::$Domain 4 Q058::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding database management?
+{
+=The option that best supports sound control over database management
+~An action that is less appropriate for database management
+~An approach that increases risk in database management
+~A choice that ignores audit objectives for database management
+}
+
+::$Domain 4 Q059::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding business impact analysis?
+{
+=The option that best supports sound control over business impact analysis
+~An action that is less appropriate for business impact analysis
+~A choice that ignores audit objectives for business impact analysis
+~An approach that increases risk in business impact analysis
+}
+
+::$Domain 4 Q060::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding backup, continuity, and disaster recovery?
+{
+=The option that best supports sound control over backup, continuity, and disaster recovery
+~An action that is less appropriate for backup, continuity, and disaster recovery
+~An approach that increases risk in backup, continuity, and disaster recovery
+~A choice that ignores audit objectives for backup, continuity, and disaster recovery
+}
+
+::$Domain 4 Q061::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding IT components and asset management?
+{
+=The option that best supports sound control over IT components and asset management
+~An action that is less appropriate for IT components and asset management
+~An approach that increases risk in IT components and asset management
+~A choice that ignores audit objectives for IT components and asset management
+}
+
+::$Domain 4 Q062::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding job scheduling and automation?
+{
+=The option that best supports sound control over job scheduling and automation
+~An action that is less appropriate for job scheduling and automation
+~An approach that increases risk in job scheduling and automation
+~A choice that ignores audit objectives for job scheduling and automation
+}
+
+::$Domain 4 Q063::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding system interfaces?
+{
+=The option that best supports sound control over system interfaces
+~An action that is less appropriate for system interfaces
+~A choice that ignores audit objectives for system interfaces
+~An approach that increases risk in system interfaces
+}
+
+::$Domain 4 Q064::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding end-user computing and shadow IT?
+{
+=The option that best supports sound control over end-user computing and shadow IT
+~An action that is less appropriate for end-user computing and shadow IT
+~An approach that increases risk in end-user computing and shadow IT
+~A choice that ignores audit objectives for end-user computing and shadow IT
+}
+
+::$Domain 4 Q065::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding availability and capacity management?
+{
+=The option that best supports sound control over availability and capacity management
+~An action that is less appropriate for availability and capacity management
+~An approach that increases risk in availability and capacity management
+~A choice that ignores audit objectives for availability and capacity management
+}
+
+::$Domain 4 Q066::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding problem and incident management?
+{
+=The option that best supports sound control over problem and incident management
+~An action that is less appropriate for problem and incident management
+~An approach that increases risk in problem and incident management
+~A choice that ignores audit objectives for problem and incident management
+}
+
+::$Domain 4 Q067::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding change, configuration, and patch management?
+{
+=The option that best supports sound control over change, configuration, and patch management
+~An action that is less appropriate for change, configuration, and patch management
+~A choice that ignores audit objectives for change, configuration, and patch management
+~An approach that increases risk in change, configuration, and patch management
+}
+
+::$Domain 4 Q068::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding operational log management?
+{
+=The option that best supports sound control over operational log management
+~An action that is less appropriate for operational log management
+~An approach that increases risk in operational log management
+~A choice that ignores audit objectives for operational log management
+}
+
+::$Domain 4 Q069::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding service level management?
+{
+=The option that best supports sound control over service level management
+~An action that is less appropriate for service level management
+~An approach that increases risk in service level management
+~A choice that ignores audit objectives for service level management
+}
+
+::$Domain 4 Q070::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding database management?
+{
+=The option that best supports sound control over database management
+~An action that is less appropriate for database management
+~An approach that increases risk in database management
+~A choice that ignores audit objectives for database management
+}
+
+::$Domain 4 Q071::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding business impact analysis?
+{
+=The option that best supports sound control over business impact analysis
+~An action that is less appropriate for business impact analysis
+~A choice that ignores audit objectives for business impact analysis
+~An approach that increases risk in business impact analysis
+}
+
+::$Domain 4 Q072::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding backup, continuity, and disaster recovery?
+{
+=The option that best supports sound control over backup, continuity, and disaster recovery
+~An action that is less appropriate for backup, continuity, and disaster recovery
+~An approach that increases risk in backup, continuity, and disaster recovery
+~A choice that ignores audit objectives for backup, continuity, and disaster recovery
+}
+
+::$Domain 4 Q073::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding IT components and asset management?
+{
+=The option that best supports sound control over IT components and asset management
+~An action that is less appropriate for IT components and asset management
+~An approach that increases risk in IT components and asset management
+~A choice that ignores audit objectives for IT components and asset management
+}
+
+::$Domain 4 Q074::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding job scheduling and automation?
+{
+=The option that best supports sound control over job scheduling and automation
+~An action that is less appropriate for job scheduling and automation
+~An approach that increases risk in job scheduling and automation
+~A choice that ignores audit objectives for job scheduling and automation
+}
+
+::$Domain 4 Q075::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding system interfaces?
+{
+=The option that best supports sound control over system interfaces
+~An action that is less appropriate for system interfaces
+~A choice that ignores audit objectives for system interfaces
+~An approach that increases risk in system interfaces
+}
+
+::$Domain 4 Q076::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding end-user computing and shadow IT?
+{
+=The option that best supports sound control over end-user computing and shadow IT
+~An action that is less appropriate for end-user computing and shadow IT
+~An approach that increases risk in end-user computing and shadow IT
+~A choice that ignores audit objectives for end-user computing and shadow IT
+}
+
+::$Domain 4 Q077::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding availability and capacity management?
+{
+=The option that best supports sound control over availability and capacity management
+~An action that is less appropriate for availability and capacity management
+~An approach that increases risk in availability and capacity management
+~A choice that ignores audit objectives for availability and capacity management
+}
+
+::$Domain 4 Q078::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding problem and incident management?
+{
+=The option that best supports sound control over problem and incident management
+~An action that is less appropriate for problem and incident management
+~An approach that increases risk in problem and incident management
+~A choice that ignores audit objectives for problem and incident management
+}
+
+::$Domain 4 Q079::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding change, configuration, and patch management?
+{
+=The option that best supports sound control over change, configuration, and patch management
+~An action that is less appropriate for change, configuration, and patch management
+~A choice that ignores audit objectives for change, configuration, and patch management
+~An approach that increases risk in change, configuration, and patch management
+}
+
+::$Domain 4 Q080::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding operational log management?
+{
+=The option that best supports sound control over operational log management
+~An action that is less appropriate for operational log management
+~An approach that increases risk in operational log management
+~A choice that ignores audit objectives for operational log management
+}
+
+::$Domain 4 Q081::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding service level management?
+{
+=The option that best supports sound control over service level management
+~An action that is less appropriate for service level management
+~An approach that increases risk in service level management
+~A choice that ignores audit objectives for service level management
+}
+
+::$Domain 4 Q082::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding database management?
+{
+=The option that best supports sound control over database management
+~An action that is less appropriate for database management
+~An approach that increases risk in database management
+~A choice that ignores audit objectives for database management
+}
+
+::$Domain 4 Q083::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding business impact analysis?
+{
+=The option that best supports sound control over business impact analysis
+~An action that is less appropriate for business impact analysis
+~A choice that ignores audit objectives for business impact analysis
+~An approach that increases risk in business impact analysis
+}
+
+::$Domain 4 Q084::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding backup, continuity, and disaster recovery?
+{
+=The option that best supports sound control over backup, continuity, and disaster recovery
+~An action that is less appropriate for backup, continuity, and disaster recovery
+~An approach that increases risk in backup, continuity, and disaster recovery
+~A choice that ignores audit objectives for backup, continuity, and disaster recovery
+}
+
+::$Domain 4 Q085::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding IT components and asset management?
+{
+=The option that best supports sound control over IT components and asset management
+~An action that is less appropriate for IT components and asset management
+~An approach that increases risk in IT components and asset management
+~A choice that ignores audit objectives for IT components and asset management
+}
+
+::$Domain 4 Q086::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding job scheduling and automation?
+{
+=The option that best supports sound control over job scheduling and automation
+~An action that is less appropriate for job scheduling and automation
+~An approach that increases risk in job scheduling and automation
+~A choice that ignores audit objectives for job scheduling and automation
+}
+
+::$Domain 4 Q087::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding system interfaces?
+{
+=The option that best supports sound control over system interfaces
+~An action that is less appropriate for system interfaces
+~A choice that ignores audit objectives for system interfaces
+~An approach that increases risk in system interfaces
+}
+
+::$Domain 4 Q088::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding end-user computing and shadow IT?
+{
+=The option that best supports sound control over end-user computing and shadow IT
+~An action that is less appropriate for end-user computing and shadow IT
+~An approach that increases risk in end-user computing and shadow IT
+~A choice that ignores audit objectives for end-user computing and shadow IT
+}
+
+::$Domain 4 Q089::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding availability and capacity management?
+{
+=The option that best supports sound control over availability and capacity management
+~An action that is less appropriate for availability and capacity management
+~An approach that increases risk in availability and capacity management
+~A choice that ignores audit objectives for availability and capacity management
+}
+
+::$Domain 4 Q090::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding problem and incident management?
+{
+=The option that best supports sound control over problem and incident management
+~An action that is less appropriate for problem and incident management
+~An approach that increases risk in problem and incident management
+~A choice that ignores audit objectives for problem and incident management
+}
+
+::$Domain 4 Q091::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding change, configuration, and patch management?
+{
+=The option that best supports sound control over change, configuration, and patch management
+~An action that is less appropriate for change, configuration, and patch management
+~A choice that ignores audit objectives for change, configuration, and patch management
+~An approach that increases risk in change, configuration, and patch management
+}
+
+::$Domain 4 Q092::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding operational log management?
+{
+=The option that best supports sound control over operational log management
+~An action that is less appropriate for operational log management
+~An approach that increases risk in operational log management
+~A choice that ignores audit objectives for operational log management
+}
+
+::$Domain 4 Q093::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding service level management?
+{
+=The option that best supports sound control over service level management
+~An action that is less appropriate for service level management
+~An approach that increases risk in service level management
+~A choice that ignores audit objectives for service level management
+}
+
+::$Domain 4 Q094::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding database management?
+{
+=The option that best supports sound control over database management
+~An action that is less appropriate for database management
+~An approach that increases risk in database management
+~A choice that ignores audit objectives for database management
+}
+
+::$Domain 4 Q095::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding business impact analysis?
+{
+=The option that best supports sound control over business impact analysis
+~An action that is less appropriate for business impact analysis
+~A choice that ignores audit objectives for business impact analysis
+~An approach that increases risk in business impact analysis
+}
+
+::$Domain 4 Q096::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding backup, continuity, and disaster recovery?
+{
+=The option that best supports sound control over backup, continuity, and disaster recovery
+~An action that is less appropriate for backup, continuity, and disaster recovery
+~An approach that increases risk in backup, continuity, and disaster recovery
+~A choice that ignores audit objectives for backup, continuity, and disaster recovery
+}
+
+::$Domain 4 Q097::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding IT components and asset management?
+{
+=The option that best supports sound control over IT components and asset management
+~An action that is less appropriate for IT components and asset management
+~An approach that increases risk in IT components and asset management
+~A choice that ignores audit objectives for IT components and asset management
+}
+
+::$Domain 4 Q098::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding job scheduling and automation?
+{
+=The option that best supports sound control over job scheduling and automation
+~An action that is less appropriate for job scheduling and automation
+~An approach that increases risk in job scheduling and automation
+~A choice that ignores audit objectives for job scheduling and automation
+}
+
+::$Domain 4 Q099::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding system interfaces?
+{
+=The option that best supports sound control over system interfaces
+~An action that is less appropriate for system interfaces
+~A choice that ignores audit objectives for system interfaces
+~An approach that increases risk in system interfaces
+}
+
+::$Domain 4 Q100::In the context of CISA Domain 4 (Information Systems Operations and Business Resilience), which of the following is the BEST choice regarding end-user computing and shadow IT?
+{
+=The option that best supports sound control over end-user computing and shadow IT
+~An action that is less appropriate for end-user computing and shadow IT
+~An approach that increases risk in end-user computing and shadow IT
+~A choice that ignores audit objectives for end-user computing and shadow IT
+}

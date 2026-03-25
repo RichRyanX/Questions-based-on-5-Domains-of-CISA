@@ -1,0 +1,801 @@
+// CISA Domain 5: Protection of Information Assets
+
+::$Domain 5 Q001::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security policies, frameworks, and standards?
+{
+=The option that best supports sound control over security policies, frameworks, and standards
+~An action that is less appropriate for security policies, frameworks, and standards
+~An approach that increases risk in security policies, frameworks, and standards
+~A choice that ignores audit objectives for security policies, frameworks, and standards
+}
+
+::$Domain 5 Q002::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding physical and environmental controls?
+{
+=The option that best supports sound control over physical and environmental controls
+~An action that is less appropriate for physical and environmental controls
+~An approach that increases risk in physical and environmental controls
+~A choice that ignores audit objectives for physical and environmental controls
+}
+
+::$Domain 5 Q003::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding identity and access management?
+{
+=The option that best supports sound control over identity and access management
+~An action that is less appropriate for identity and access management
+~A choice that ignores audit objectives for identity and access management
+~An approach that increases risk in identity and access management
+}
+
+::$Domain 5 Q004::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding network and endpoint security?
+{
+=The option that best supports sound control over network and endpoint security
+~An action that is less appropriate for network and endpoint security
+~An approach that increases risk in network and endpoint security
+~A choice that ignores audit objectives for network and endpoint security
+}
+
+::$Domain 5 Q005::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding data loss prevention and encryption?
+{
+=The option that best supports sound control over data loss prevention and encryption
+~An action that is less appropriate for data loss prevention and encryption
+~An approach that increases risk in data loss prevention and encryption
+~A choice that ignores audit objectives for data loss prevention and encryption
+}
+
+::$Domain 5 Q006::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding public key infrastructure?
+{
+=The option that best supports sound control over public key infrastructure
+~An action that is less appropriate for public key infrastructure
+~An approach that increases risk in public key infrastructure
+~A choice that ignores audit objectives for public key infrastructure
+}
+
+::$Domain 5 Q007::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding cloud and virtualized environments?
+{
+=The option that best supports sound control over cloud and virtualized environments
+~An action that is less appropriate for cloud and virtualized environments
+~A choice that ignores audit objectives for cloud and virtualized environments
+~An approach that increases risk in cloud and virtualized environments
+}
+
+::$Domain 5 Q008::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding mobile, wireless, and IoT security?
+{
+=The option that best supports sound control over mobile, wireless, and IoT security
+~An action that is less appropriate for mobile, wireless, and IoT security
+~An approach that increases risk in mobile, wireless, and IoT security
+~A choice that ignores audit objectives for mobile, wireless, and IoT security
+}
+
+::$Domain 5 Q009::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security awareness and attack methods?
+{
+=The option that best supports sound control over security awareness and attack methods
+~An action that is less appropriate for security awareness and attack methods
+~An approach that increases risk in security awareness and attack methods
+~A choice that ignores audit objectives for security awareness and attack methods
+}
+
+::$Domain 5 Q010::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security testing and monitoring?
+{
+=The option that best supports sound control over security testing and monitoring
+~An action that is less appropriate for security testing and monitoring
+~An approach that increases risk in security testing and monitoring
+~A choice that ignores audit objectives for security testing and monitoring
+}
+
+::$Domain 5 Q011::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding incident response?
+{
+=The option that best supports sound control over incident response
+~An action that is less appropriate for incident response
+~A choice that ignores audit objectives for incident response
+~An approach that increases risk in incident response
+}
+
+::$Domain 5 Q012::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding evidence collection and forensics?
+{
+=The option that best supports sound control over evidence collection and forensics
+~An action that is less appropriate for evidence collection and forensics
+~An approach that increases risk in evidence collection and forensics
+~A choice that ignores audit objectives for evidence collection and forensics
+}
+
+::$Domain 5 Q013::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security policies, frameworks, and standards?
+{
+=The option that best supports sound control over security policies, frameworks, and standards
+~An action that is less appropriate for security policies, frameworks, and standards
+~An approach that increases risk in security policies, frameworks, and standards
+~A choice that ignores audit objectives for security policies, frameworks, and standards
+}
+
+::$Domain 5 Q014::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding physical and environmental controls?
+{
+=The option that best supports sound control over physical and environmental controls
+~An action that is less appropriate for physical and environmental controls
+~An approach that increases risk in physical and environmental controls
+~A choice that ignores audit objectives for physical and environmental controls
+}
+
+::$Domain 5 Q015::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding identity and access management?
+{
+=The option that best supports sound control over identity and access management
+~An action that is less appropriate for identity and access management
+~A choice that ignores audit objectives for identity and access management
+~An approach that increases risk in identity and access management
+}
+
+::$Domain 5 Q016::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding network and endpoint security?
+{
+=The option that best supports sound control over network and endpoint security
+~An action that is less appropriate for network and endpoint security
+~An approach that increases risk in network and endpoint security
+~A choice that ignores audit objectives for network and endpoint security
+}
+
+::$Domain 5 Q017::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding data loss prevention and encryption?
+{
+=The option that best supports sound control over data loss prevention and encryption
+~An action that is less appropriate for data loss prevention and encryption
+~An approach that increases risk in data loss prevention and encryption
+~A choice that ignores audit objectives for data loss prevention and encryption
+}
+
+::$Domain 5 Q018::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding public key infrastructure?
+{
+=The option that best supports sound control over public key infrastructure
+~An action that is less appropriate for public key infrastructure
+~An approach that increases risk in public key infrastructure
+~A choice that ignores audit objectives for public key infrastructure
+}
+
+::$Domain 5 Q019::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding cloud and virtualized environments?
+{
+=The option that best supports sound control over cloud and virtualized environments
+~An action that is less appropriate for cloud and virtualized environments
+~A choice that ignores audit objectives for cloud and virtualized environments
+~An approach that increases risk in cloud and virtualized environments
+}
+
+::$Domain 5 Q020::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding mobile, wireless, and IoT security?
+{
+=The option that best supports sound control over mobile, wireless, and IoT security
+~An action that is less appropriate for mobile, wireless, and IoT security
+~An approach that increases risk in mobile, wireless, and IoT security
+~A choice that ignores audit objectives for mobile, wireless, and IoT security
+}
+
+::$Domain 5 Q021::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security awareness and attack methods?
+{
+=The option that best supports sound control over security awareness and attack methods
+~An action that is less appropriate for security awareness and attack methods
+~An approach that increases risk in security awareness and attack methods
+~A choice that ignores audit objectives for security awareness and attack methods
+}
+
+::$Domain 5 Q022::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security testing and monitoring?
+{
+=The option that best supports sound control over security testing and monitoring
+~An action that is less appropriate for security testing and monitoring
+~An approach that increases risk in security testing and monitoring
+~A choice that ignores audit objectives for security testing and monitoring
+}
+
+::$Domain 5 Q023::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding incident response?
+{
+=The option that best supports sound control over incident response
+~An action that is less appropriate for incident response
+~A choice that ignores audit objectives for incident response
+~An approach that increases risk in incident response
+}
+
+::$Domain 5 Q024::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding evidence collection and forensics?
+{
+=The option that best supports sound control over evidence collection and forensics
+~An action that is less appropriate for evidence collection and forensics
+~An approach that increases risk in evidence collection and forensics
+~A choice that ignores audit objectives for evidence collection and forensics
+}
+
+::$Domain 5 Q025::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security policies, frameworks, and standards?
+{
+=The option that best supports sound control over security policies, frameworks, and standards
+~An action that is less appropriate for security policies, frameworks, and standards
+~An approach that increases risk in security policies, frameworks, and standards
+~A choice that ignores audit objectives for security policies, frameworks, and standards
+}
+
+::$Domain 5 Q026::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding physical and environmental controls?
+{
+=The option that best supports sound control over physical and environmental controls
+~An action that is less appropriate for physical and environmental controls
+~An approach that increases risk in physical and environmental controls
+~A choice that ignores audit objectives for physical and environmental controls
+}
+
+::$Domain 5 Q027::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding identity and access management?
+{
+=The option that best supports sound control over identity and access management
+~An action that is less appropriate for identity and access management
+~A choice that ignores audit objectives for identity and access management
+~An approach that increases risk in identity and access management
+}
+
+::$Domain 5 Q028::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding network and endpoint security?
+{
+=The option that best supports sound control over network and endpoint security
+~An action that is less appropriate for network and endpoint security
+~An approach that increases risk in network and endpoint security
+~A choice that ignores audit objectives for network and endpoint security
+}
+
+::$Domain 5 Q029::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding data loss prevention and encryption?
+{
+=The option that best supports sound control over data loss prevention and encryption
+~An action that is less appropriate for data loss prevention and encryption
+~An approach that increases risk in data loss prevention and encryption
+~A choice that ignores audit objectives for data loss prevention and encryption
+}
+
+::$Domain 5 Q030::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding public key infrastructure?
+{
+=The option that best supports sound control over public key infrastructure
+~An action that is less appropriate for public key infrastructure
+~An approach that increases risk in public key infrastructure
+~A choice that ignores audit objectives for public key infrastructure
+}
+
+::$Domain 5 Q031::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding cloud and virtualized environments?
+{
+=The option that best supports sound control over cloud and virtualized environments
+~An action that is less appropriate for cloud and virtualized environments
+~A choice that ignores audit objectives for cloud and virtualized environments
+~An approach that increases risk in cloud and virtualized environments
+}
+
+::$Domain 5 Q032::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding mobile, wireless, and IoT security?
+{
+=The option that best supports sound control over mobile, wireless, and IoT security
+~An action that is less appropriate for mobile, wireless, and IoT security
+~An approach that increases risk in mobile, wireless, and IoT security
+~A choice that ignores audit objectives for mobile, wireless, and IoT security
+}
+
+::$Domain 5 Q033::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security awareness and attack methods?
+{
+=The option that best supports sound control over security awareness and attack methods
+~An action that is less appropriate for security awareness and attack methods
+~An approach that increases risk in security awareness and attack methods
+~A choice that ignores audit objectives for security awareness and attack methods
+}
+
+::$Domain 5 Q034::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security testing and monitoring?
+{
+=The option that best supports sound control over security testing and monitoring
+~An action that is less appropriate for security testing and monitoring
+~An approach that increases risk in security testing and monitoring
+~A choice that ignores audit objectives for security testing and monitoring
+}
+
+::$Domain 5 Q035::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding incident response?
+{
+=The option that best supports sound control over incident response
+~An action that is less appropriate for incident response
+~A choice that ignores audit objectives for incident response
+~An approach that increases risk in incident response
+}
+
+::$Domain 5 Q036::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding evidence collection and forensics?
+{
+=The option that best supports sound control over evidence collection and forensics
+~An action that is less appropriate for evidence collection and forensics
+~An approach that increases risk in evidence collection and forensics
+~A choice that ignores audit objectives for evidence collection and forensics
+}
+
+::$Domain 5 Q037::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security policies, frameworks, and standards?
+{
+=The option that best supports sound control over security policies, frameworks, and standards
+~An action that is less appropriate for security policies, frameworks, and standards
+~An approach that increases risk in security policies, frameworks, and standards
+~A choice that ignores audit objectives for security policies, frameworks, and standards
+}
+
+::$Domain 5 Q038::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding physical and environmental controls?
+{
+=The option that best supports sound control over physical and environmental controls
+~An action that is less appropriate for physical and environmental controls
+~An approach that increases risk in physical and environmental controls
+~A choice that ignores audit objectives for physical and environmental controls
+}
+
+::$Domain 5 Q039::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding identity and access management?
+{
+=The option that best supports sound control over identity and access management
+~An action that is less appropriate for identity and access management
+~A choice that ignores audit objectives for identity and access management
+~An approach that increases risk in identity and access management
+}
+
+::$Domain 5 Q040::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding network and endpoint security?
+{
+=The option that best supports sound control over network and endpoint security
+~An action that is less appropriate for network and endpoint security
+~An approach that increases risk in network and endpoint security
+~A choice that ignores audit objectives for network and endpoint security
+}
+
+::$Domain 5 Q041::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding data loss prevention and encryption?
+{
+=The option that best supports sound control over data loss prevention and encryption
+~An action that is less appropriate for data loss prevention and encryption
+~An approach that increases risk in data loss prevention and encryption
+~A choice that ignores audit objectives for data loss prevention and encryption
+}
+
+::$Domain 5 Q042::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding public key infrastructure?
+{
+=The option that best supports sound control over public key infrastructure
+~An action that is less appropriate for public key infrastructure
+~An approach that increases risk in public key infrastructure
+~A choice that ignores audit objectives for public key infrastructure
+}
+
+::$Domain 5 Q043::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding cloud and virtualized environments?
+{
+=The option that best supports sound control over cloud and virtualized environments
+~An action that is less appropriate for cloud and virtualized environments
+~A choice that ignores audit objectives for cloud and virtualized environments
+~An approach that increases risk in cloud and virtualized environments
+}
+
+::$Domain 5 Q044::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding mobile, wireless, and IoT security?
+{
+=The option that best supports sound control over mobile, wireless, and IoT security
+~An action that is less appropriate for mobile, wireless, and IoT security
+~An approach that increases risk in mobile, wireless, and IoT security
+~A choice that ignores audit objectives for mobile, wireless, and IoT security
+}
+
+::$Domain 5 Q045::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security awareness and attack methods?
+{
+=The option that best supports sound control over security awareness and attack methods
+~An action that is less appropriate for security awareness and attack methods
+~An approach that increases risk in security awareness and attack methods
+~A choice that ignores audit objectives for security awareness and attack methods
+}
+
+::$Domain 5 Q046::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security testing and monitoring?
+{
+=The option that best supports sound control over security testing and monitoring
+~An action that is less appropriate for security testing and monitoring
+~An approach that increases risk in security testing and monitoring
+~A choice that ignores audit objectives for security testing and monitoring
+}
+
+::$Domain 5 Q047::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding incident response?
+{
+=The option that best supports sound control over incident response
+~An action that is less appropriate for incident response
+~A choice that ignores audit objectives for incident response
+~An approach that increases risk in incident response
+}
+
+::$Domain 5 Q048::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding evidence collection and forensics?
+{
+=The option that best supports sound control over evidence collection and forensics
+~An action that is less appropriate for evidence collection and forensics
+~An approach that increases risk in evidence collection and forensics
+~A choice that ignores audit objectives for evidence collection and forensics
+}
+
+::$Domain 5 Q049::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security policies, frameworks, and standards?
+{
+=The option that best supports sound control over security policies, frameworks, and standards
+~An action that is less appropriate for security policies, frameworks, and standards
+~An approach that increases risk in security policies, frameworks, and standards
+~A choice that ignores audit objectives for security policies, frameworks, and standards
+}
+
+::$Domain 5 Q050::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding physical and environmental controls?
+{
+=The option that best supports sound control over physical and environmental controls
+~An action that is less appropriate for physical and environmental controls
+~An approach that increases risk in physical and environmental controls
+~A choice that ignores audit objectives for physical and environmental controls
+}
+
+::$Domain 5 Q051::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding identity and access management?
+{
+=The option that best supports sound control over identity and access management
+~An action that is less appropriate for identity and access management
+~A choice that ignores audit objectives for identity and access management
+~An approach that increases risk in identity and access management
+}
+
+::$Domain 5 Q052::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding network and endpoint security?
+{
+=The option that best supports sound control over network and endpoint security
+~An action that is less appropriate for network and endpoint security
+~An approach that increases risk in network and endpoint security
+~A choice that ignores audit objectives for network and endpoint security
+}
+
+::$Domain 5 Q053::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding data loss prevention and encryption?
+{
+=The option that best supports sound control over data loss prevention and encryption
+~An action that is less appropriate for data loss prevention and encryption
+~An approach that increases risk in data loss prevention and encryption
+~A choice that ignores audit objectives for data loss prevention and encryption
+}
+
+::$Domain 5 Q054::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding public key infrastructure?
+{
+=The option that best supports sound control over public key infrastructure
+~An action that is less appropriate for public key infrastructure
+~An approach that increases risk in public key infrastructure
+~A choice that ignores audit objectives for public key infrastructure
+}
+
+::$Domain 5 Q055::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding cloud and virtualized environments?
+{
+=The option that best supports sound control over cloud and virtualized environments
+~An action that is less appropriate for cloud and virtualized environments
+~A choice that ignores audit objectives for cloud and virtualized environments
+~An approach that increases risk in cloud and virtualized environments
+}
+
+::$Domain 5 Q056::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding mobile, wireless, and IoT security?
+{
+=The option that best supports sound control over mobile, wireless, and IoT security
+~An action that is less appropriate for mobile, wireless, and IoT security
+~An approach that increases risk in mobile, wireless, and IoT security
+~A choice that ignores audit objectives for mobile, wireless, and IoT security
+}
+
+::$Domain 5 Q057::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security awareness and attack methods?
+{
+=The option that best supports sound control over security awareness and attack methods
+~An action that is less appropriate for security awareness and attack methods
+~An approach that increases risk in security awareness and attack methods
+~A choice that ignores audit objectives for security awareness and attack methods
+}
+
+::$Domain 5 Q058::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security testing and monitoring?
+{
+=The option that best supports sound control over security testing and monitoring
+~An action that is less appropriate for security testing and monitoring
+~An approach that increases risk in security testing and monitoring
+~A choice that ignores audit objectives for security testing and monitoring
+}
+
+::$Domain 5 Q059::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding incident response?
+{
+=The option that best supports sound control over incident response
+~An action that is less appropriate for incident response
+~A choice that ignores audit objectives for incident response
+~An approach that increases risk in incident response
+}
+
+::$Domain 5 Q060::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding evidence collection and forensics?
+{
+=The option that best supports sound control over evidence collection and forensics
+~An action that is less appropriate for evidence collection and forensics
+~An approach that increases risk in evidence collection and forensics
+~A choice that ignores audit objectives for evidence collection and forensics
+}
+
+::$Domain 5 Q061::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security policies, frameworks, and standards?
+{
+=The option that best supports sound control over security policies, frameworks, and standards
+~An action that is less appropriate for security policies, frameworks, and standards
+~An approach that increases risk in security policies, frameworks, and standards
+~A choice that ignores audit objectives for security policies, frameworks, and standards
+}
+
+::$Domain 5 Q062::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding physical and environmental controls?
+{
+=The option that best supports sound control over physical and environmental controls
+~An action that is less appropriate for physical and environmental controls
+~An approach that increases risk in physical and environmental controls
+~A choice that ignores audit objectives for physical and environmental controls
+}
+
+::$Domain 5 Q063::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding identity and access management?
+{
+=The option that best supports sound control over identity and access management
+~An action that is less appropriate for identity and access management
+~A choice that ignores audit objectives for identity and access management
+~An approach that increases risk in identity and access management
+}
+
+::$Domain 5 Q064::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding network and endpoint security?
+{
+=The option that best supports sound control over network and endpoint security
+~An action that is less appropriate for network and endpoint security
+~An approach that increases risk in network and endpoint security
+~A choice that ignores audit objectives for network and endpoint security
+}
+
+::$Domain 5 Q065::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding data loss prevention and encryption?
+{
+=The option that best supports sound control over data loss prevention and encryption
+~An action that is less appropriate for data loss prevention and encryption
+~An approach that increases risk in data loss prevention and encryption
+~A choice that ignores audit objectives for data loss prevention and encryption
+}
+
+::$Domain 5 Q066::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding public key infrastructure?
+{
+=The option that best supports sound control over public key infrastructure
+~An action that is less appropriate for public key infrastructure
+~An approach that increases risk in public key infrastructure
+~A choice that ignores audit objectives for public key infrastructure
+}
+
+::$Domain 5 Q067::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding cloud and virtualized environments?
+{
+=The option that best supports sound control over cloud and virtualized environments
+~An action that is less appropriate for cloud and virtualized environments
+~A choice that ignores audit objectives for cloud and virtualized environments
+~An approach that increases risk in cloud and virtualized environments
+}
+
+::$Domain 5 Q068::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding mobile, wireless, and IoT security?
+{
+=The option that best supports sound control over mobile, wireless, and IoT security
+~An action that is less appropriate for mobile, wireless, and IoT security
+~An approach that increases risk in mobile, wireless, and IoT security
+~A choice that ignores audit objectives for mobile, wireless, and IoT security
+}
+
+::$Domain 5 Q069::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security awareness and attack methods?
+{
+=The option that best supports sound control over security awareness and attack methods
+~An action that is less appropriate for security awareness and attack methods
+~An approach that increases risk in security awareness and attack methods
+~A choice that ignores audit objectives for security awareness and attack methods
+}
+
+::$Domain 5 Q070::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security testing and monitoring?
+{
+=The option that best supports sound control over security testing and monitoring
+~An action that is less appropriate for security testing and monitoring
+~An approach that increases risk in security testing and monitoring
+~A choice that ignores audit objectives for security testing and monitoring
+}
+
+::$Domain 5 Q071::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding incident response?
+{
+=The option that best supports sound control over incident response
+~An action that is less appropriate for incident response
+~A choice that ignores audit objectives for incident response
+~An approach that increases risk in incident response
+}
+
+::$Domain 5 Q072::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding evidence collection and forensics?
+{
+=The option that best supports sound control over evidence collection and forensics
+~An action that is less appropriate for evidence collection and forensics
+~An approach that increases risk in evidence collection and forensics
+~A choice that ignores audit objectives for evidence collection and forensics
+}
+
+::$Domain 5 Q073::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security policies, frameworks, and standards?
+{
+=The option that best supports sound control over security policies, frameworks, and standards
+~An action that is less appropriate for security policies, frameworks, and standards
+~An approach that increases risk in security policies, frameworks, and standards
+~A choice that ignores audit objectives for security policies, frameworks, and standards
+}
+
+::$Domain 5 Q074::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding physical and environmental controls?
+{
+=The option that best supports sound control over physical and environmental controls
+~An action that is less appropriate for physical and environmental controls
+~An approach that increases risk in physical and environmental controls
+~A choice that ignores audit objectives for physical and environmental controls
+}
+
+::$Domain 5 Q075::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding identity and access management?
+{
+=The option that best supports sound control over identity and access management
+~An action that is less appropriate for identity and access management
+~A choice that ignores audit objectives for identity and access management
+~An approach that increases risk in identity and access management
+}
+
+::$Domain 5 Q076::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding network and endpoint security?
+{
+=The option that best supports sound control over network and endpoint security
+~An action that is less appropriate for network and endpoint security
+~An approach that increases risk in network and endpoint security
+~A choice that ignores audit objectives for network and endpoint security
+}
+
+::$Domain 5 Q077::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding data loss prevention and encryption?
+{
+=The option that best supports sound control over data loss prevention and encryption
+~An action that is less appropriate for data loss prevention and encryption
+~An approach that increases risk in data loss prevention and encryption
+~A choice that ignores audit objectives for data loss prevention and encryption
+}
+
+::$Domain 5 Q078::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding public key infrastructure?
+{
+=The option that best supports sound control over public key infrastructure
+~An action that is less appropriate for public key infrastructure
+~An approach that increases risk in public key infrastructure
+~A choice that ignores audit objectives for public key infrastructure
+}
+
+::$Domain 5 Q079::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding cloud and virtualized environments?
+{
+=The option that best supports sound control over cloud and virtualized environments
+~An action that is less appropriate for cloud and virtualized environments
+~A choice that ignores audit objectives for cloud and virtualized environments
+~An approach that increases risk in cloud and virtualized environments
+}
+
+::$Domain 5 Q080::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding mobile, wireless, and IoT security?
+{
+=The option that best supports sound control over mobile, wireless, and IoT security
+~An action that is less appropriate for mobile, wireless, and IoT security
+~An approach that increases risk in mobile, wireless, and IoT security
+~A choice that ignores audit objectives for mobile, wireless, and IoT security
+}
+
+::$Domain 5 Q081::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security awareness and attack methods?
+{
+=The option that best supports sound control over security awareness and attack methods
+~An action that is less appropriate for security awareness and attack methods
+~An approach that increases risk in security awareness and attack methods
+~A choice that ignores audit objectives for security awareness and attack methods
+}
+
+::$Domain 5 Q082::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security testing and monitoring?
+{
+=The option that best supports sound control over security testing and monitoring
+~An action that is less appropriate for security testing and monitoring
+~An approach that increases risk in security testing and monitoring
+~A choice that ignores audit objectives for security testing and monitoring
+}
+
+::$Domain 5 Q083::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding incident response?
+{
+=The option that best supports sound control over incident response
+~An action that is less appropriate for incident response
+~A choice that ignores audit objectives for incident response
+~An approach that increases risk in incident response
+}
+
+::$Domain 5 Q084::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding evidence collection and forensics?
+{
+=The option that best supports sound control over evidence collection and forensics
+~An action that is less appropriate for evidence collection and forensics
+~An approach that increases risk in evidence collection and forensics
+~A choice that ignores audit objectives for evidence collection and forensics
+}
+
+::$Domain 5 Q085::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security policies, frameworks, and standards?
+{
+=The option that best supports sound control over security policies, frameworks, and standards
+~An action that is less appropriate for security policies, frameworks, and standards
+~An approach that increases risk in security policies, frameworks, and standards
+~A choice that ignores audit objectives for security policies, frameworks, and standards
+}
+
+::$Domain 5 Q086::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding physical and environmental controls?
+{
+=The option that best supports sound control over physical and environmental controls
+~An action that is less appropriate for physical and environmental controls
+~An approach that increases risk in physical and environmental controls
+~A choice that ignores audit objectives for physical and environmental controls
+}
+
+::$Domain 5 Q087::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding identity and access management?
+{
+=The option that best supports sound control over identity and access management
+~An action that is less appropriate for identity and access management
+~A choice that ignores audit objectives for identity and access management
+~An approach that increases risk in identity and access management
+}
+
+::$Domain 5 Q088::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding network and endpoint security?
+{
+=The option that best supports sound control over network and endpoint security
+~An action that is less appropriate for network and endpoint security
+~An approach that increases risk in network and endpoint security
+~A choice that ignores audit objectives for network and endpoint security
+}
+
+::$Domain 5 Q089::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding data loss prevention and encryption?
+{
+=The option that best supports sound control over data loss prevention and encryption
+~An action that is less appropriate for data loss prevention and encryption
+~An approach that increases risk in data loss prevention and encryption
+~A choice that ignores audit objectives for data loss prevention and encryption
+}
+
+::$Domain 5 Q090::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding public key infrastructure?
+{
+=The option that best supports sound control over public key infrastructure
+~An action that is less appropriate for public key infrastructure
+~An approach that increases risk in public key infrastructure
+~A choice that ignores audit objectives for public key infrastructure
+}
+
+::$Domain 5 Q091::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding cloud and virtualized environments?
+{
+=The option that best supports sound control over cloud and virtualized environments
+~An action that is less appropriate for cloud and virtualized environments
+~A choice that ignores audit objectives for cloud and virtualized environments
+~An approach that increases risk in cloud and virtualized environments
+}
+
+::$Domain 5 Q092::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding mobile, wireless, and IoT security?
+{
+=The option that best supports sound control over mobile, wireless, and IoT security
+~An action that is less appropriate for mobile, wireless, and IoT security
+~An approach that increases risk in mobile, wireless, and IoT security
+~A choice that ignores audit objectives for mobile, wireless, and IoT security
+}
+
+::$Domain 5 Q093::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security awareness and attack methods?
+{
+=The option that best supports sound control over security awareness and attack methods
+~An action that is less appropriate for security awareness and attack methods
+~An approach that increases risk in security awareness and attack methods
+~A choice that ignores audit objectives for security awareness and attack methods
+}
+
+::$Domain 5 Q094::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security testing and monitoring?
+{
+=The option that best supports sound control over security testing and monitoring
+~An action that is less appropriate for security testing and monitoring
+~An approach that increases risk in security testing and monitoring
+~A choice that ignores audit objectives for security testing and monitoring
+}
+
+::$Domain 5 Q095::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding incident response?
+{
+=The option that best supports sound control over incident response
+~An action that is less appropriate for incident response
+~A choice that ignores audit objectives for incident response
+~An approach that increases risk in incident response
+}
+
+::$Domain 5 Q096::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding evidence collection and forensics?
+{
+=The option that best supports sound control over evidence collection and forensics
+~An action that is less appropriate for evidence collection and forensics
+~An approach that increases risk in evidence collection and forensics
+~A choice that ignores audit objectives for evidence collection and forensics
+}
+
+::$Domain 5 Q097::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding security policies, frameworks, and standards?
+{
+=The option that best supports sound control over security policies, frameworks, and standards
+~An action that is less appropriate for security policies, frameworks, and standards
+~An approach that increases risk in security policies, frameworks, and standards
+~A choice that ignores audit objectives for security policies, frameworks, and standards
+}
+
+::$Domain 5 Q098::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding physical and environmental controls?
+{
+=The option that best supports sound control over physical and environmental controls
+~An action that is less appropriate for physical and environmental controls
+~An approach that increases risk in physical and environmental controls
+~A choice that ignores audit objectives for physical and environmental controls
+}
+
+::$Domain 5 Q099::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding identity and access management?
+{
+=The option that best supports sound control over identity and access management
+~An action that is less appropriate for identity and access management
+~A choice that ignores audit objectives for identity and access management
+~An approach that increases risk in identity and access management
+}
+
+::$Domain 5 Q100::In the context of CISA Domain 5 (Protection of Information Assets), which of the following is the BEST choice regarding network and endpoint security?
+{
+=The option that best supports sound control over network and endpoint security
+~An action that is less appropriate for network and endpoint security
+~An approach that increases risk in network and endpoint security
+~A choice that ignores audit objectives for network and endpoint security
+}
